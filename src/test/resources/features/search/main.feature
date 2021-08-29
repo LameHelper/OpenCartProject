@@ -1,6 +1,7 @@
-Feature: Search by keyword
+Feature: Homepage operations
 
-  @test01
+
+  @verify_empty_cart
   Scenario: Searching for a term
     Given user is on homepage
     When he click on his cart
