@@ -1,0 +1,3 @@
+interactions\CucumberTestSuite.class
+interactions\stepdefinitions\HomeStepDefinitions.class
+interactions\steps\HomePageSteps.class
